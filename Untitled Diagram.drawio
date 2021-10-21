@@ -1,17 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T08:56:37.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="uSgzdhKFNgjfOgZ9Nzrx" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T08:58:59.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="vR_XrYUzpWfHqCgYrHp2" version="15.5.8" type="github">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V5rkbNTQcQsLUcfA7pde-3" value="初始化设置参数因子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="初始化化Q表 R表 P表 A表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="210" height="60" as="geometry" />
+          <mxGeometry x="249" y="180" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-2" value="选择动作a&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-5" value="执行动作a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-6" value="计算奖励影响因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
