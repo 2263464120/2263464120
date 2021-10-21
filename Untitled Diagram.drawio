@@ -1,40 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:36:52.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="zX2E6m5EFGrlCoprEic_" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T11:54:36.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="tW7-L9NhdozPZBY9ulOv" version="15.5.8" type="github" pages="2">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="V5rkbNTQcQsLUcfA7pde-3" target="kovAo3_g1AgbrA-oMjsM-1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="V5rkbNTQcQsLUcfA7pde-3" target="kovAo3_g1AgbrA-oMjsM-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5rkbNTQcQsLUcfA7pde-3" value="&lt;b&gt;初始化设置参数因子&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="282.62" y="140" width="142.75" height="40" as="geometry" />
+          <mxGeometry x="282.61" y="220" width="142.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-1" target="kovAo3_g1AgbrA-oMjsM-2">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kovAo3_g1AgbrA-oMjsM-1" target="kovAo3_g1AgbrA-oMjsM-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353.99" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="&lt;b&gt;初始化化Q表 R表 P表 A表&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="258.24" y="300" width="191.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="kovAo3_g1AgbrA-oMjsM-5" target="kovAo3_g1AgbrA-oMjsM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="&lt;b&gt;初始化化Q表 R表 P表 A表&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="258.25" y="220" width="191.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-2" target="kovAo3_g1AgbrA-oMjsM-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-2" value="&lt;b&gt;选择动作a&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="296" y="300" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-5" target="kovAo3_g1AgbrA-oMjsM-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-5" value="&lt;b&gt;执行动作a&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-5" value="&lt;b&gt;执行动作a&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="296.99" y="380" width="114.01" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-6" target="kovAo3_g1AgbrA-oMjsM-7">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="kovAo3_g1AgbrA-oMjsM-6" target="kovAo3_g1AgbrA-oMjsM-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-6" value="&lt;b&gt;计算奖励影响因子&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-6" value="&lt;b&gt;计算奖励影响因子&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="291" y="460" width="126" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-7" target="kovAo3_g1AgbrA-oMjsM-8">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="kovAo3_g1AgbrA-oMjsM-7" target="kovAo3_g1AgbrA-oMjsM-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="354" y="600" />
@@ -42,28 +38,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="&lt;b&gt;计算奖励值R&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="&lt;b&gt;计算奖励值R&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="301" y="545" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-41">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="&lt;b&gt;更新表&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="&lt;b&gt;更新j矩阵&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="310.99" y="630" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-41" value="&lt;b&gt;结束迭代&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-41" value="&lt;b&gt;结束迭代&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="310.99" y="710" width="86" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-46" target="kovAo3_g1AgbrA-oMjsM-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="173" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-46" value="&lt;b&gt;判断并更新状态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="120" y="460" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -73,13 +58,13 @@
       <root>
         <mxCell id="Vd0DCVqly0wTlctrRkB_-0" />
         <mxCell id="Vd0DCVqly0wTlctrRkB_-1" parent="Vd0DCVqly0wTlctrRkB_-0" />
-        <mxCell id="fv7QZ_-t_JcOeia0YTSp-1" value="伪代码" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;align=left;fontSize=14;" vertex="1" parent="Vd0DCVqly0wTlctrRkB_-1">
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-1" value="伪代码" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;align=left;fontSize=14;" parent="Vd0DCVqly0wTlctrRkB_-1" vertex="1">
           <mxGeometry x="190" y="130" width="390" height="70" as="geometry">
             <mxRectangle x="190" y="130" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fv7QZ_-t_JcOeia0YTSp-2" value="  初始化： 设置学习率α ，衰减因子γ，最大迭代系数,终止状态 S-end 对于每一个状态S(s∈S)，a(a∈A) 设置Q-table&#xa;    设置一步装态转移矩阵P   设置奖励影响因子矩阵 IA &#xa;   &#xa; &#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Vd0DCVqly0wTlctrRkB_-1">
-          <mxGeometry x="180" y="320" width="650" height="180" as="geometry" />
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-2" value="  初始化： 设置学习率α ，衰减因子γ，最大迭代系数,终止状态 S-end ，&#xa; &#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Vd0DCVqly0wTlctrRkB_-1" vertex="1">
+          <mxGeometry x="180" y="320" width="390" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
