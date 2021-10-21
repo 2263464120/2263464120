@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:13:29.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="pFHx9BdX4tI_WqtuVvT6" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:15:46.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="MjhtDrEiPMoBm_7K5Eu9" version="15.5.8" type="github" pages="2">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,8 +65,27 @@
         <mxCell id="kovAo3_g1AgbrA-oMjsM-46" value="&lt;b&gt;判断并更新状态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="460" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-50" value="伪代码" style="swimlane;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="540" y="360" width="200" height="200" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ly9_UcJMTwmrDw0FNbEF" name="Page-2">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Vd0DCVqly0wTlctrRkB_-0" />
+        <mxCell id="Vd0DCVqly0wTlctrRkB_-1" parent="Vd0DCVqly0wTlctrRkB_-0" />
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-1" value="伪代码" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;" vertex="1" parent="Vd0DCVqly0wTlctrRkB_-1">
+          <mxGeometry x="200" y="160" width="390" height="120" as="geometry">
+            <mxRectangle x="190" y="130" width="50" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fv7QZ_-t_JcOeia0YTSp-1">
+          <mxGeometry y="30" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fv7QZ_-t_JcOeia0YTSp-1">
+          <mxGeometry y="60" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="fv7QZ_-t_JcOeia0YTSp-1">
+          <mxGeometry y="90" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
