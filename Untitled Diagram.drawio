@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T08:59:10.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="WQKGCij5JOJstyPieoHE" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T08:59:50.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Sdt3Qgix79EUw3461lWs" version="15.5.8" type="github">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,11 @@
         <mxCell id="kovAo3_g1AgbrA-oMjsM-6" value="计算奖励影响因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="计算奖励值R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="更新表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
