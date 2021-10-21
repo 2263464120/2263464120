@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:04:56.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="h11bLuSGPcJH5wfwKXeF" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:06:23.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-fdZsSncNk06NKPyOiFC" version="15.5.8" type="github">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,37 +7,37 @@
         <mxCell id="kovAo3_g1AgbrA-oMjsM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="V5rkbNTQcQsLUcfA7pde-3" target="kovAo3_g1AgbrA-oMjsM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V5rkbNTQcQsLUcfA7pde-3" value="初始化设置参数因子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="V5rkbNTQcQsLUcfA7pde-3" value="&lt;b&gt;初始化设置参数因子&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="282.62" y="140" width="142.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-1" target="kovAo3_g1AgbrA-oMjsM-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="初始化化Q表 R表 P表 A表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="&lt;b&gt;初始化化Q表 R表 P表 A表&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="258.25" y="220" width="191.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-2" target="kovAo3_g1AgbrA-oMjsM-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-2" value="选择动作a&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-2" value="&lt;b&gt;选择动作a&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="296" y="300" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-5" target="kovAo3_g1AgbrA-oMjsM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-5" value="执行动作a" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-5" value="&lt;b&gt;执行动作a&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="296.99" y="380" width="114.01" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-6" target="kovAo3_g1AgbrA-oMjsM-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-6" value="计算奖励影响因子" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-6" value="&lt;b&gt;计算奖励影响因子&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="460" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-7" target="kovAo3_g1AgbrA-oMjsM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="计算奖励值R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="&lt;b&gt;计算奖励值R&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="301" y="545" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-2">
@@ -49,7 +49,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="更新表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="&lt;b&gt;更新表&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310.99" y="630" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
