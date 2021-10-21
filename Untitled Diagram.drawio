@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:12:16.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iD1glF9-IqVSHF_4L6g4" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:13:29.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="pFHx9BdX4tI_WqtuVvT6" version="15.5.8" type="github">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-46" value="&lt;b&gt;判断并更新状态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="460" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-50" value="伪代码" style="swimlane;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
