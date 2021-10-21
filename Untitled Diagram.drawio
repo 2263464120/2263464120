@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:28:52.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_3dPULJHpFAXugchchFR" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:30:27.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="BqiejV-SGFNCDibUa1M4" version="15.5.8" type="github" pages="2">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,8 +78,8 @@
             <mxRectangle x="190" y="130" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fv7QZ_-t_JcOeia0YTSp-2" value="  初始化： 设置学习率α ，衰减因子γ，最大迭代系数,终止状态 S-end ，&#xa; &#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Vd0DCVqly0wTlctrRkB_-1">
-          <mxGeometry x="180" y="320" width="390" height="180" as="geometry" />
+        <mxCell id="fv7QZ_-t_JcOeia0YTSp-2" value="  初始化： 设置学习率α ，衰减因子γ，最大迭代系数,终止状态 S-end 对于每一个状态S() &#xa; &#xa;&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Vd0DCVqly0wTlctrRkB_-1">
+          <mxGeometry x="180" y="320" width="650" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
