@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T12:01:44.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="NgKWtyJSb_2BxKoS7ZZT" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-21T12:10:18.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="WVSHdItFNWlJeDML5iVi" version="15.5.8" type="github" pages="2">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
-    <mxGraphModel dx="1270" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1494" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V5rkbNTQcQsLUcfA7pde-3" value="&lt;b&gt;初始化设置参数因子&lt;br&gt;&lt;/b&gt;&lt;b&gt;初始化最大迭代目数&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="282.62" y="220" width="142.75" height="40" as="geometry" />
+          <mxGeometry x="282.62" y="130" width="142.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="&lt;b&gt;初始化Q表 R表 P表 A表&lt;br&gt;&lt;/b&gt;&lt;b&gt;初始化最大迭代目数&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="258.25" y="300" width="191.5" height="40" as="geometry" />
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-1" target="2IjdymJNIdkPTo6zUL7b-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-1" target="V5rkbNTQcQsLUcfA7pde-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-1" value="&lt;b&gt;初始化Q表 R表 P表 A表&lt;br&gt;&lt;/b&gt;&lt;b&gt;设置初始状态，迭代次数t=0&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="258.25" y="210" width="191.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" source="kovAo3_g1AgbrA-oMjsM-5" target="kovAo3_g1AgbrA-oMjsM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -39,16 +45,40 @@
         <mxCell id="kovAo3_g1AgbrA-oMjsM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="&lt;b&gt;更新矩阵&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="310.99" y="630" width="86" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-41" value="&lt;b&gt;t=T 结束迭代&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="310.99" y="710" width="86" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2IjdymJNIdkPTo6zUL7b-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-1" target="kovAo3_g1AgbrA-oMjsM-5">
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="354" y="340" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="250" y="640" />
+              <mxPoint x="250" y="400" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="&lt;b&gt;更新矩阵&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310.99" y="620" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-41" target="2IjdymJNIdkPTo6zUL7b-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-41" target="2IjdymJNIdkPTo6zUL7b-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="719.8965517241379" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="720" />
+              <mxPoint x="450" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-41" value="&lt;b&gt;S为结束态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="310.99" y="700" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="2IjdymJNIdkPTo6zUL7b-15" target="kovAo3_g1AgbrA-oMjsM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-15" value="&lt;b&gt;初始状态S&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="296.99" y="300" width="114.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2IjdymJNIdkPTo6zUL7b-23" value="&lt;b&gt;t=T 结束迭代&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310.99" y="780" width="86" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
