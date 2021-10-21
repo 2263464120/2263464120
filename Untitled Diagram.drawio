@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T09:06:36.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="KWSTXR46G0HBGeLcgi3o" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:12:16.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iD1glF9-IqVSHF_4L6g4" version="15.5.8" type="github">
   <diagram id="E2XHpv-KZXUMiO-KORbd" name="Page-1">
     <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,22 +35,35 @@
           <mxGeometry x="291" y="460" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-7" target="kovAo3_g1AgbrA-oMjsM-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="600" />
+              <mxPoint x="354" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-7" value="&lt;b&gt;计算奖励值R&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="301" y="545" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kovAo3_g1AgbrA-oMjsM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="210" y="650" />
-              <mxPoint x="210" y="320" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-8" target="kovAo3_g1AgbrA-oMjsM-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kovAo3_g1AgbrA-oMjsM-8" value="&lt;b&gt;更新表&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310.99" y="630" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-41" value="&lt;b&gt;结束迭代&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310.99" y="710" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kovAo3_g1AgbrA-oMjsM-46" target="kovAo3_g1AgbrA-oMjsM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="173" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kovAo3_g1AgbrA-oMjsM-46" value="&lt;b&gt;判断并更新状态&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="120" y="460" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
